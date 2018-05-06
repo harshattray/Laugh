@@ -19,7 +19,7 @@
 html, body {
   height: 100%;
   }
-  body {
+  h1 {
     text-align: center;
     background-color: hsla(230,40%,50%,1);
     }
